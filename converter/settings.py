@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-oo(nf^1oh8b^_v&rv*e3f&r_fs&24b+s^90)njg%_9a*jk)y_v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','python-speech-converter.herokuapp.com']
 
 
 # Application definition
