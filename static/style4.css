@@ -1,0 +1,130 @@
+section .head .logout
+{
+	margin-top: -40px;
+	margin-bottom: 10px;
+	margin-left: 93%;
+}
+section .formBx
+{
+	
+	justify-content: center;
+	align-items: center;
+	background-color: aquamarine;
+	width: 100%;
+	height: 100%;
+}
+section .formBx h2
+{	
+	margin-top: 10px;
+	color: #607d8b;
+	font-weight: 600;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	margin-left: 180px;
+	border-bottom: 4px solid #ff4584;
+	display: inline-block;
+	letter-spacing: 1px;
+
+}
+section .formBx .mb-3
+{	
+	margin-top: -60px;
+	margin-bottom: 40px;
+	margin-left: 200px;
+}
+section .formBx .button
+{	
+	margin-top: -90px;
+	margin-bottom: 20px;
+	margin-left: 200px;
+}
+section .formBx .form-label
+{
+	margin-left: 202px;
+	font-size: 16px;
+	margin-bottom: 20px;
+	display: inline-block;
+	color: #607db8;
+	font-weight: 300;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+section .formBx .mb-3 input
+{
+	margin-top: 40px;
+	width: 70%;
+	padding: 10px 20px;
+	outline: none;
+	font-weight: 400;
+	border: 1px solid #607d8b;
+	font-size: 16px;
+	letter-spacing: 1px;
+	color: #607d8b;
+	background: transparent;
+	border-radius: 10px;
+}
+section .formBx .mb-4 input
+{
+	margin-top: -60px;
+	margin-bottom: -40px;
+	margin-left: 200px;
+	width: 60%;
+	padding: 10px 20px;
+	outline: none;
+	font-weight: 400;
+	border: 1px solid #607d8b;
+	font-size: 16px;
+	letter-spacing: 1px;
+	color: #607d8b;
+	background: transparent;
+	border-radius: 10px;
+}
+
+section .formBx .lang
+{
+	margin-top: 0px;
+	width: 15%;
+	/* margin-left: auto; */
+	margin-left: 200px;
+	margin-bottom: 85px;
+	padding: 5px 10px;
+	background: transparent;
+	border: 1px solid palevioletred;
+	border-radius: 10px;
+	font-weight: 300;
+}
+section .formBx .button input[type="submit"]
+{
+	margin-top: -20px;
+	margin-bottom: 5px;
+	margin-left: 350px;
+	padding: 10px 20px;
+	width: 20%;
+	background: #ff4584;
+	color: #fff;
+	/* outline: :none; */
+	border: none;
+	border-radius: 10px;
+	font-weight: 500;
+	cursor: pointer;
+}
+section .formBx .button input[type="submit"]:hover
+{
+	background: #f53677;
+}
+.title{
+    font-weight: 400;
+    line-height: 1.5;
+    color:#ff4584;
+    background-color: rgb(4, 47, 65);
+    margin-top: 0;
+	margin-bottom: 0;
+    border: 1px solid transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    font-size: 3rem;
+    border-radius: 0.4rem;
+}
